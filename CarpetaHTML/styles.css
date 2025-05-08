@@ -1,0 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #ffffff;
+  color: #333333;
+  margin: 20px;
+}
+
+#principal {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #553520;
+  font-size: 3.7em;
+
+}
+
+.css-title {
+  font-family:'Times New Roman', Times, serif;
+  color: darkmagenta;
+  margin-top: 35px;
+}
+
+p {
+  color: #ff0606;
+}
+
+img {
+  width: 275px;
+}
